@@ -4,6 +4,7 @@ The IDF stands for the "Internet-of-Things DevelopmentFramework", which is the b
 from https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/index.html, it is the espressif's official framework for 
 creating IOT projects. 
 
+
 #  Suggested Experience
 - C Programming Language 
 - Arduino
@@ -14,7 +15,9 @@ It's got four merges of RAM built inside and the ESP32
 - memory, wireless antenna, serial communication interface, USB input...
 - regulator, which takes the 5 volts coming in from the USB and drops it down to 3.3 volts, which will then power the chip
 - peripheral(I/O pins)
-- PSAM(Psuedo Static RAM), which has advantages instorage and speed 
+- PSAM(Psuedo Static RAM), which has advantages instorage and speed
+![series of Dev Boards](https://github.com/afterCherry/Learn-ESP32/blob/main/Images/esp32.png)
+![ESP32 with bread board](https://github.com/afterCherry/Learn-ESP32/blob/main/Images/ESP32%20on%20bread%20board.png)
   
 ⚠️  
 - watch it from front and back perspective

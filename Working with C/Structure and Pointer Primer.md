@@ -28,8 +28,23 @@ void updatePerson(Person *person, char * dataRetrieved)
 - No rubbish when debugging is the best thing all over the world.
 - Just put the mouse on the variable, we will see the properties of the variable.
 
+# Array
+```C++
+void exclamIt(char * phrase){
+  strcat(phrase, "!");
+}
+
+exclamIt(phrase);
+printf("function output: %s\n", phrase);
+```
+
+
+
 
 # Words
+- open bracket closed bracket 开括号，闭括号
+- mutate 变异
+- exclamation 感叹号
 - ampersand &
 - whereas 然而
 - collapse 坍塌

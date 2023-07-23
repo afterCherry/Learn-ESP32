@@ -1,8 +1,10 @@
 # Debug Steps
-1. Put a breakpint: what is in the process and what's happening in the memory, which help us to see why is this situation
-2. "bug" button on the left to debug
-3. step forward to see the address
-4. Step click in function updatePerson, we will see the address of variable "person" to see whether the calling "person" is consistent with the definition "person"
+1. Put a breakpint: what is in the process and what's happening in the memory, which help us to see why is this situation <br>
+![breakpoint](https://github.com/afterCherry/Learn-ESP32/blob/main/Images/put%20a%20breakpoint.png) <br>
+2. "bug" button on the left to debug <br>
+3. step forward to see the address <br>
+![address in the memory](https://github.com/afterCherry/Learn-ESP32/blob/main/Images/address%20in%20the%20memory.png) <br>
+4. Step click in function updatePerson, we will see the address of variable "person" to see whether the calling "person" is consistent with the definition "person" <br>
 
 
 # Structure

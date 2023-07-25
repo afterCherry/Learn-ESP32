@@ -1,4 +1,7 @@
-
+- watch variable value
+![watch variable value](https://github.com/afterCherry/Learn-ESP32/blob/main/Images/watch%20variable%20value.png)
+- edit the breakpoint <br>
+![edit the breakpoint- right click](https://github.com/afterCherry/Learn-ESP32/blob/main/Images/right%20click%20breakpoint.png)
 
 
 # Words
